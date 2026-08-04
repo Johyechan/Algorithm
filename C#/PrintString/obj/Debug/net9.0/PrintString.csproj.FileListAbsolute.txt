@@ -1,0 +1,14 @@
+C:\Git\Algorithm\C#\PrintString\bin\Debug\net9.0\PrintString.exe
+C:\Git\Algorithm\C#\PrintString\bin\Debug\net9.0\PrintString.deps.json
+C:\Git\Algorithm\C#\PrintString\bin\Debug\net9.0\PrintString.runtimeconfig.json
+C:\Git\Algorithm\C#\PrintString\bin\Debug\net9.0\PrintString.dll
+C:\Git\Algorithm\C#\PrintString\bin\Debug\net9.0\PrintString.pdb
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\PrintString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\PrintString.AssemblyInfoInputs.cache
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\PrintString.AssemblyInfo.cs
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\PrintString.csproj.CoreCompileInputs.cache
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\PrintString.dll
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\refint\PrintString.dll
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\PrintString.pdb
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\PrintString.genruntimeconfig.cache
+C:\Git\Algorithm\C#\PrintString\obj\Debug\net9.0\ref\PrintString.dll
