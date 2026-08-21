@@ -1,0 +1,15 @@
+C:\Git\Algorithm\C#\StringRotation\bin\Debug\net9.0\StringRotation.exe
+C:\Git\Algorithm\C#\StringRotation\bin\Debug\net9.0\StringRotation.deps.json
+C:\Git\Algorithm\C#\StringRotation\bin\Debug\net9.0\StringRotation.runtimeconfig.json
+C:\Git\Algorithm\C#\StringRotation\bin\Debug\net9.0\StringRotation.dll
+C:\Git\Algorithm\C#\StringRotation\bin\Debug\net9.0\StringRotation.pdb
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.AssemblyInfoInputs.cache
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.AssemblyInfo.cs
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.csproj.CoreCompileInputs.cache
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.sourcelink.json
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.dll
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\refint\StringRotation.dll
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.pdb
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\StringRotation.genruntimeconfig.cache
+C:\Git\Algorithm\C#\StringRotation\obj\Debug\net9.0\ref\StringRotation.dll

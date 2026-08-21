@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Algorithm\\C#\\PrintString\\PrintString.csproj": {}
+    "C:\\Git\\Algorithm\\C#\\StringRotation\\StringRotation.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Algorithm\\C#\\PrintString\\PrintString.csproj": {
+    "C:\\Git\\Algorithm\\C#\\StringRotation\\StringRotation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Algorithm\\C#\\PrintString\\PrintString.csproj",
-        "projectName": "PrintString",
-        "projectPath": "C:\\Git\\Algorithm\\C#\\PrintString\\PrintString.csproj",
+        "projectUniqueName": "C:\\Git\\Algorithm\\C#\\StringRotation\\StringRotation.csproj",
+        "projectName": "StringRotation",
+        "projectPath": "C:\\Git\\Algorithm\\C#\\StringRotation\\StringRotation.csproj",
         "packagesPath": "C:\\Users\\johye\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Algorithm\\C#\\PrintString\\obj\\",
+        "outputPath": "C:\\Git\\Algorithm\\C#\\StringRotation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
