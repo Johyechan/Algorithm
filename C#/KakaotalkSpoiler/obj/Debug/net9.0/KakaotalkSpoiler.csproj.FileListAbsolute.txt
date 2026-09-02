@@ -1,0 +1,15 @@
+C:\Git\Algorithm\C#\KakaotalkSpoiler\bin\Debug\net9.0\KakaotalkSpoiler.exe
+C:\Git\Algorithm\C#\KakaotalkSpoiler\bin\Debug\net9.0\KakaotalkSpoiler.deps.json
+C:\Git\Algorithm\C#\KakaotalkSpoiler\bin\Debug\net9.0\KakaotalkSpoiler.runtimeconfig.json
+C:\Git\Algorithm\C#\KakaotalkSpoiler\bin\Debug\net9.0\KakaotalkSpoiler.dll
+C:\Git\Algorithm\C#\KakaotalkSpoiler\bin\Debug\net9.0\KakaotalkSpoiler.pdb
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.AssemblyInfoInputs.cache
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.AssemblyInfo.cs
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.csproj.CoreCompileInputs.cache
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.sourcelink.json
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.dll
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\refint\KakaotalkSpoiler.dll
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.pdb
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\KakaotalkSpoiler.genruntimeconfig.cache
+C:\Git\Algorithm\C#\KakaotalkSpoiler\obj\Debug\net9.0\ref\KakaotalkSpoiler.dll
