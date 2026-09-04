@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KakaotalkSpoiler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb14c45082b1a7ac3029e6b1eee8a6245918d90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+642601e4135b29c590c775485fa8cb92c8785b9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KakaotalkSpoiler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KakaotalkSpoiler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
