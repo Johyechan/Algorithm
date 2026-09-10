@@ -1,0 +1,15 @@
+C:\Git\Algorithm\C#\HideCactus\bin\Debug\net10.0\HideCactus.exe
+C:\Git\Algorithm\C#\HideCactus\bin\Debug\net10.0\HideCactus.deps.json
+C:\Git\Algorithm\C#\HideCactus\bin\Debug\net10.0\HideCactus.runtimeconfig.json
+C:\Git\Algorithm\C#\HideCactus\bin\Debug\net10.0\HideCactus.dll
+C:\Git\Algorithm\C#\HideCactus\bin\Debug\net10.0\HideCactus.pdb
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.AssemblyInfoInputs.cache
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.AssemblyInfo.cs
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.csproj.CoreCompileInputs.cache
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.sourcelink.json
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.dll
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\refint\HideCactus.dll
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.pdb
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\HideCactus.genruntimeconfig.cache
+C:\Git\Algorithm\C#\HideCactus\obj\Debug\net10.0\ref\HideCactus.dll
