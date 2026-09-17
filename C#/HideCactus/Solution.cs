@@ -31,18 +31,22 @@ class Solution
             for (int j = 0; j < n; j++)
             {
                 // 현재 윈도우에서 빠진 인덱스 제거
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                 while (deque.Count > 0 &&
                     deque.First.Value <= j - w)
                 {
                     deque.RemoveFirst();
                 }
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
 
                 // 새 값보다 크거나 같은 후보 제거
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                 while (deque.Count > 0 &&
                     rain[i, deque.Last.Value] >= rain[i, j])
                 {
                     deque.RemoveLast();
                 }
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
 
                 // 새 값 추가
                 deque.AddLast(j);
@@ -50,7 +54,9 @@ class Solution
                 // 윈도우가 완성되었으면 최소값 저장
                 if (j >= w - 1)
                 {
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                     row[i, j - w + 1] = rain[i, deque.First.Value];
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
                 }
             }
         }
@@ -66,18 +72,22 @@ class Solution
             for (int j = 0; j < m; j++)
             {
                 // 현재 윈도우에서 빠진 인덱스 제거
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                 while (deque.Count > 0 &&
                     deque.First.Value <= j - h)
                 {
                     deque.RemoveFirst();
                 }
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
 
                 // 새 값보다 크거나 같은 후보 제거
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                 while (deque.Count > 0 &&
                     row[deque.Last.Value, i] >= row[j, i])
                 {
                     deque.RemoveLast();
                 }
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
 
                 // 새 값 추가
                 deque.AddLast(j);
@@ -85,7 +95,9 @@ class Solution
                 // 윈도우가 완성되었으면 최소값 저장
                 if (j >= h - 1)
                 {
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
                     col[j - h + 1, i] = row[deque.First.Value, i];
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
                 }
             }
         }

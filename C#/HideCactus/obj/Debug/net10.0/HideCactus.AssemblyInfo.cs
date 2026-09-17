@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HideCactus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4294dab1cf0b7dd4e2ff6da5953f0e12e1720232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd9c8fa5523769d2cc61d214e067c1cce3c9ca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HideCactus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HideCactus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
