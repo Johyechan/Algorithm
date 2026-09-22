@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringRotation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd9c8fa5523769d2cc61d214e067c1cce3c9ca5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+332ec367fc060650cd1d9db4830439588c8ec458")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringRotation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringRotation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
